@@ -13,7 +13,7 @@ Information Technology Engineering student at Universidad Politécnica de San Lu
 
 ### Software Development
 * **Programming Languages:** Java, Python, C, PHP, JavaScript, HTML, CSS
-* **Frameworks & Environments:** Laravel, Node.js
+* **Frameworks & Environments:** Node.js
 * **Databases:** PostgreSQL, MySQL
 
 ### Cybersecurity
@@ -27,7 +27,7 @@ Information Technology Engineering student at Universidad Politécnica de San Lu
 
 ## Certifications
 
-* **Microsoft Office Specialist – Associate (Office 2019)
+* Microsoft Office Specialist – Associate (Office 2019)
 * Information Technology Specialist – HTML and CSS
 * **eJPT (eLearnSecurity Junior Penetration Tester)** – *In Preparation*
 
