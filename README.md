@@ -1,4 +1,4 @@
-# Jetro
+# Hi, I'm Jetro
 
 Information Technology Engineering student at Universidad Politécnica de San Luis Potosí, specializing in **backend development** and **cybersecurity**. Experienced in building client-server architectures, web applications, and currently expanding my expertise in network and web penetration testing.
 
